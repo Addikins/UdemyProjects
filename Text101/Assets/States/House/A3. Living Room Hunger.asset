@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: A3. Living Room Hunger
+  m_EditorClassIdentifier: 
+  storyText: "I am a sloth, and therefore patience is my virtue. I wait until the
+    tea hits the perfect temperature. Slowly, as I tend to make a habit of, I enjoy
+    it down to the last drop. The tea was delightful, but now I feel my tummy grumbling
+    and I must find a way to fill this never ending hunger which torments my soul
+    down to the very fiber of my slothness.\r\n\r\nThere still might be time to get
+    some munchies...\r\n1. Go back to bed\r\n2. Make a crawl to for the donuts"
+  nextStates:
+  - {fileID: 11400000, guid: bd2a805af50274a49ba64c2ee132b015, type: 2}
+  - {fileID: 11400000, guid: 2fe0a793bb676e64580e470101fc8a6b, type: 2}

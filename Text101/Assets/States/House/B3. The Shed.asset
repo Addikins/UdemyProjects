@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: B3. The Shed
+  m_EditorClassIdentifier: 
+  storyText: "In the shed there are many tools, a broom, a mop, and the usual things
+    any sane sloth would find useless. There's two chests nestled in the small shed.
+    One is a white chest sitting in the corner, boring but familiar. The other is
+    an elegant chest with a gold trim resembling pirate's treasure.\r\n\r\nWhich chest
+    should I search?\r\n1. The White Chest\r\n2. The Elegant Chest"
+  nextStates:
+  - {fileID: 11400000, guid: 499040ce073b39c409254fb76fac51de, type: 2}
+  - {fileID: 11400000, guid: 4f059cab11d90034da6abe517e7549cc, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: B2. Oak Tree
+  m_EditorClassIdentifier: 
+  storyText: "It's been awhile since I sat to admire the shillings on my rooftop,
+    perhaps they could cure my insufferable hunger. I should probably eat before I
+    start having hallucinations.\r\n\r\n\r\n1. Grab the snacks\r\n2. Stay in the tree"
+  nextStates:
+  - {fileID: 11400000, guid: f7a793be4f1bc3749b43f4f2ae2d596f, type: 2}
+  - {fileID: 11400000, guid: a8c3aa84395ba3a42b06e6a9cc6ce120, type: 2}

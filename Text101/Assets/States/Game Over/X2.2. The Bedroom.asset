@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: X2.2. The Bedroom
+  m_EditorClassIdentifier: 
+  storyText: "I shamble my way to bed, hungry and uneasy about my rough day. As I
+    poke my head in, I realize that I brought the third package of donuts into the
+    room with me and proceeded to go into a food coma. Perhaps all I needed to do
+    was sleep in a little later. The lesson here is that I really shouldn't put so
+    much effort into my day, I am a sloth after all. Now, time to sink my worries
+    into these fluffy pastries.\r\n\r\nNow that I've gotten my snacks I'm good to
+    go, but I can always try to get more grub...\r\n1. Play Again\r\n2. Exit Game"
+  nextStates:
+  - {fileID: 11400000, guid: 60d01bbb77c0fbb458d0376942f56e80, type: 2}
+  - {fileID: 11400000, guid: 30d17025556eff743aef08ff120d8089, type: 2}

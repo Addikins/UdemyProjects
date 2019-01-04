@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: A1. Kitchen
+  m_EditorClassIdentifier: 
+  storyText: "I'm a lone sloth living in a cruel city. I spend my days\r lounging
+    around the den with my feet up and a good ole\r claw full of munchies. Today started
+    like any other.\r I climbed from my bed to the kitchen in search of a\r nice cup
+    of tea and... No this has to be wrong.\r I was certain I had gotten a third box
+    of donuts yesterday. Something has to be done.\r\n\r\nShould I try to leave so
+    early in the morning? By noon I could have donuts in hand...\r\n1. Have the tea
+    without donuts\r\n2. Leave the house and search for donuts"
+  nextStates:
+  - {fileID: 11400000, guid: 63ddb6470e9ae3c4f96ddf1ffbe45e28, type: 2}
+  - {fileID: 11400000, guid: 2fe0a793bb676e64580e470101fc8a6b, type: 2}

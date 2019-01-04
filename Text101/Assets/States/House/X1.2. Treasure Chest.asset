@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: X1.2. Treasure Chest
+  m_EditorClassIdentifier: 
+  storyText: "I pry open the elegant treasure chest. As the wood creaks open I wonder
+    how the chest got here. Then I remember. I set it here to act as a decoy for my
+    real treasure. It's too late, the trap laid within the chest springs out and the
+    room is filled with sleeping gas.\r\n\r\n1. Sleep it off"
+  nextStates:
+  - {fileID: 11400000, guid: daddb5c3b0758ca43a7a1a75d21dc7fa, type: 2}

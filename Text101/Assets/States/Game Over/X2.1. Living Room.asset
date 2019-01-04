@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a1560beb3a0a6c2408bfd0979d5730c8, type: 3}
+  m_Name: X2.1. Living Room
+  m_EditorClassIdentifier: 
+  storyText: "I grab my lovely munchies and make my way to the living room to reap
+    the rewards of my harvest. I do love a good binge, and I've been stashing these
+    snacks for a good while. It just goes to show that a hard day of slothing can
+    really pay off.\r\n\r\nNow that I've gotten my snacks I'm good to go, but I can
+    always try to get more grub...\r\n1. Play Again\r\n2. Exit Game"
+  nextStates:
+  - {fileID: 11400000, guid: 60d01bbb77c0fbb458d0376942f56e80, type: 2}
+  - {fileID: 11400000, guid: 30d17025556eff743aef08ff120d8089, type: 2}
